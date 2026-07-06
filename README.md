@@ -28,8 +28,8 @@ from SuperSlicer's Filament Settings tab.
 
 | Filament | Type | Nozzle (first / print) | Bed (first / print) |
 |---|---|---|---|
-| Polymaker PolyLite PLA+ Pro | PLA | 220 / 215 {DEG}C | 50 / 50 {DEG}C |
-| Polymaker PolyLite ABS | ABS | 250 / 245 {DEG}C | 70 / 85 {DEG}C |
-| Polymaker PolyFlex TPU90 | TPU | 220 / 220 {DEG}C | 60 / 60 {DEG}C |
+| Polymaker PolyLite PLA+ Pro | PLA | 220 / 215 °C | 50 / 50 °C |
+| Polymaker PolyLite ABS | ABS | 250 / 245 °C | 70 / 85 °C |
+| Polymaker PolyFlex TPU90 | TPU | 220 / 220 °C | 60 / 60 °C |
 
 Print settings and system settings are not included yet.
