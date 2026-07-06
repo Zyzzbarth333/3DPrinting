@@ -1,6 +1,8 @@
 # Normalise text to LF. Klipper runs on Linux, so configs must stay LF.
 * text=auto eol=lf
 *.cfg text eol=lf
+*.conf text eol=lf
+*.config text eol=lf
 *.ini text eol=lf
 *.md  text eol=lf
 
